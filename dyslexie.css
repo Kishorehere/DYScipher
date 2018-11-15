@@ -1,0 +1,25 @@
+@font-face{
+	font-family: 'dys';
+	src: url('fonts/OpenDyslexic-Regular.otf');
+}
+/*bold*/
+@font-face{
+	font-family: 'dys';
+	src: url('fonts/OpenDyslexic-Bold.otf');
+	font-weight:bold;
+}
+/*italic*/
+@font-face{
+	font-family: 'dys';
+	src: url('fonts/OpenDyslexic-Italic.otf');
+}
+/*Bold Italic*/
+@font-face{
+	font-family: 'dys';
+	src: url('fonts/OpenDyslexic-BoldItalic.otf');
+}
+.para{
+	font-family:'dys';
+	font-size: 100px;
+}
+
